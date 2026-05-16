@@ -1,0 +1,32 @@
+# Objetos compilados
+*.o
+*.a
+*.so
+
+# Executáveis
+sge-integration
+*.exe
+
+# Diretórios
+obj/
+build/
+dist/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Backup
+*.bak
+*.backup
+
+# Logs
+*.log
+
+# Config com dados sensíveis
+config.local.h
+.env
